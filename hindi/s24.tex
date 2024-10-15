@@ -1,8 +1,9 @@
 \documentclass{memoir}
-\usepackage[a5paper]{geometry}
 \usepackage{verse}
 \usepackage{polyglossia}
-\usepackage{titlesec}
+\usepackage[center, sc]{titlesec}
+\usepackage{s24options}
+\usepackage{pdfpages}
 
 % Set up fonts to use Hindi
 \newfontfamily\devtransl[Mapping=DevRom]{Times New Roman}
@@ -18,36 +19,35 @@
 \titleformat
 {\chapter}
 [display] %shape
-{\bfseries\LARGE} %format
-{Chapter \thechapter} % label
-{2cm} %sep
-{} % before code
-[\newpage] %after code
+{\HUGE} %format
+{\Roman\filcenter Chapter \thechapter} % label
+{1cm} %sep
+{\centering} % before code
+[\newpage] % after code
+
+%%%%%%%%%% BOOK INFORMATION %%%%%%%%%%
+\newcommand{\authorname}{\texthindi{डॉ जुगिन्दर लूथरा}}
+\newcommand{\booktitle}{\texthindi{जीवन यात्रा}}
+\newcommand{\subtitle}{Subtitle}
+\newcommand{\publisher}{Your Publisher}
+\newcommand{\editionyear}{2024}
+\newcommand{\isbn}{0000}   
+\title{\booktitle}
+\author{\authorname}
+
 
 \begin{document}
-\title{\Huge \texthindi{जीवन यात्रा}}
-\author{\huge \texthindi{डॉ जुगिन्दर लूथरा}}
-\maketitle
+\includepdf{s24_cover.png}
 \frontmatter
-\tableofcontents
-\texthindi{
-इस किताब की यात्रा को पूरा करने में बहुत\\
-लोगों ने सहायता की है। मेरी तुकबंदियों को\\
-कविता का दर्जा दे कर मुझे प्रोत्साहन दिया\\
-है। उन के सहयोग और प्रोत्साहन के बिना\\
-इसे पूरा करना संभव नहीं था।\\
-डॉ शिववरण सिंह रघुवंशी, जयदेव तनेजा, कृष्णा शर्मा, आरती पिंटो, पंकज महरोत्रा का इस किताब के पूरा होने में हाथ है। मेरी पत्नी, डौली लूथरा ने कविताओं को सुना और संवारा। नमिता रोहिनी और रश्मी ने किताब लिखने लिए प्रोत्साहित किया। प्रेम लूथरा ने कविता लिखने की योग्यता देखी \\
-हमारे दोहते, अर्जन बीर सिंह ने फूलों की तस्वीर स्वयं लेने के बाद पुस्तक का आवरण बहुत प्यार और लगन के साथ बनाया। नमिता लूथरा ने कई सुझाव दिये। \\
-अंत में, उन अनगिनत व्यक्तियों का धन्यवाद\\
-करता हूँ जिन्होंने इस यात्रा में अपने\\
-अनुभव, कहानियाँ और सुझाव मेरे साथ\\
-साझा किये—आप सभी ने इस पुस्तक में\\
-हो और योगदान दिया है।आप ने दिल से सराहना कर के मेरा हौसला बढ़ाया।\\
-यह पुस्तक मैं अपने गुरु जी को, अपने परिवार और आप सब को समर्पित करता हूँ\\
-जुगिन्दर लूथरा
-}
+\include{s24title}
+\include{s24copyright}
+\include{s24toc}
+\include{s24preface}
 
 \mainmatter
+\pagestyle{fancy}
 \include{s24a.tex}
+\backmatter
+\includepdf{s24_back.png}
 
 \end{document}
