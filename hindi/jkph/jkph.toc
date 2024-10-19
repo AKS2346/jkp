@@ -1,0 +1,8 @@
+\selectlanguage *{english}
+\contentsline {chapter}{\numberline {1}Hindi Poems}{5}{}%
+\contentsline {section}{\texthindi {हमारा बचपन}}{6}{}%
+\contentsline {section}{\texthindi { एक फूल की कहानी उस की ज़ुबानी }}{7}{}%
+\contentsline {section}{\texthindi {शब्द शक्ति}}{8}{}%
+\contentsline {chapter}{\numberline {2}English Poems}{11}{}%
+\contentsline {section}{Be a Sun}{12}{}%
+\contentsline {section}{Spring}{13}{}%

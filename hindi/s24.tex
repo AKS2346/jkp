@@ -1,9 +1,10 @@
-\documentclass[a5paper]{memoir}
+\documentclass[a5paper,14pt]{memoir}
 % \usepackage{verse}
 \usepackage{polyglossia}
 \usepackage[center, sc]{titlesec}
 \usepackage{s24options}
 \usepackage{pdfpages}
+\usepackage{multicol}
 
 % Set up fonts to use Hindi
 \newfontfamily\devtransl[Mapping=DevRom]{Times New Roman}
@@ -46,9 +47,14 @@
 
 \mainmatter
 \pagestyle{fancy}
-\include{s24a.tex}
-\include{s24b.tex}
+\include{chapter1.tex}
+\include{chapter2.tex}
+\include{chapter3.tex}
+\include{chapter4.tex}
+\include{chapter5.tex}
+\include{chapter6.tex}
 \backmatter
+\includepdf{s24_inside back.png}
 \includepdf{s24_back.png}
 
 \end{document}

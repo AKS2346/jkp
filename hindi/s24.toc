@@ -1,0 +1,115 @@
+\selectlanguage *{english}
+\contentsline {chapter}{Contents}{ii}{}%
+\contentsline {chapter}{Preface}{viii}{}%
+\contentsline {chapter}{\chapternumberline {1}\texthindi {क्रम}}{2}{}%
+\contentsline {section}{\texthindi {आध्यात्मिक}}{2}{}%
+\contentsline {section}{\texthindi {परिवार}}{2}{}%
+\contentsline {section}{\texthindi {ज़िन्दगी}}{3}{}%
+\contentsline {section}{\texthindi {हास्य}}{4}{}%
+\contentsline {chapter}{\chapternumberline {2}\texthindi {आध्यात्मिक}}{8}{}%
+\contentsline {section}{\texthindi {भगवान}}{8}{}%
+\contentsline {section}{\texthindi {स्रोत}}{8}{}%
+\contentsline {section}{ \texthindi { सर्वव्यापी } }{9}{}%
+\contentsline {section}{ \texthindi { मोक्ष } }{11}{}%
+\contentsline {section}{ \texthindi {दो दिन का मेहमान }}{13}{}%
+\contentsline {section}{ \texthindi {असली रूप }}{14}{}%
+\contentsline {section}{ \texthindi {खुदी }}{15}{}%
+\contentsline {section}{ \texthindi {नशुकरा }}{16}{}%
+\contentsline {section}{\texthindi {दो राहें }}{18}{}%
+\contentsline {section}{\texthindi { जीवन का मकसद }}{19}{}%
+\contentsline {chapter}{\chapternumberline {3} \texthindi {परिवार} }{22}{}%
+\contentsline {section}{ \texthindi {दो नंबर मकान } }{22}{}%
+\contentsline {section}{ \texthindi {पहला मिलन}}{25}{}%
+\contentsline {section}{\texthindi {मुहब्बत}}{26}{}%
+\contentsline {section}{\texthindi {नाचूँ खुशियों से}}{27}{}%
+\contentsline {section}{\texthindi {लगता है मैं घर आ गया हूँ }}{28}{}%
+\contentsline {section}{\texthindi {मैं कहाँ फँस गया हूँ }}{33}{}%
+\contentsline {section}{\texthindi {अपनी मिट्टी }}{37}{}%
+\contentsline {section}{\texthindi {हमारा बचपन }}{38}{}%
+\contentsline {section}{\texthindi {दिल करता है}}{40}{}%
+\contentsline {section}{\texthindi {व्यापारी की इज़्ज़त }}{42}{}%
+\contentsline {section}{\texthindi {प्रेम लूथरा श्रद्धांजलि }}{46}{}%
+\contentsline {section}{\texthindi {एफ़ जी टी मर गई }}{50}{}%
+\contentsline {chapter}{\chapternumberline {4}\texthindi {जीवन}}{54}{}%
+\contentsline {section}{\texthindi {अब नहीं तो कब}}{54}{}%
+\contentsline {section}{\texthindi {एक फूल की कहानी}}{55}{}%
+\contentsline {section}{\texthindi {पुनर्जन्म}}{59}{}%
+\contentsline {section}{\texthindi {सुखी जीवन}}{61}{}%
+\contentsline {section}{\texthindi {सरसराहट}}{63}{}%
+\contentsline {section}{\texthindi {निंदा}}{64}{}%
+\contentsline {section}{\texthindi {कल }}{66}{}%
+\contentsline {section}{\texthindi {वक्त }}{67}{}%
+\contentsline {section}{\texthindi {वक्त या पैसा }}{68}{}%
+\contentsline {section}{\texthindi {खुशी अंदर है}}{70}{}%
+\contentsline {section}{\texthindi {बाँट के चीज़ }}{71}{}%
+\contentsline {section}{\texthindi {शब्द शक्ति }}{72}{}%
+\contentsline {section}{\texthindi {खोखली हंसी }}{74}{}%
+\contentsline {section}{\texthindi {वक्त चला गया }}{76}{}%
+\contentsline {section}{\texthindi {ज़िंदगी }}{78}{}%
+\contentsline {section}{\texthindi {बात }}{79}{}%
+\contentsline {section}{\texthindi {नये पंछी }}{80}{}%
+\contentsline {section}{\texthindi {रौशनी की इज़्ज़त }}{81}{}%
+\contentsline {section}{\texthindi {इंसान की इज़्ज़त }}{82}{}%
+\contentsline {section}{\texthindi {चाँद }}{83}{}%
+\contentsline {section}{\texthindi {दोस्त }}{85}{}%
+\contentsline {section}{\texthindi {नकली दोस्त }}{85}{}%
+\contentsline {section}{\texthindi {अतीत के भूत }}{87}{}%
+\contentsline {section}{\texthindi {सवेरा }}{89}{}%
+\contentsline {section}{\texthindi {आग में सुलगना }}{90}{}%
+\contentsline {section}{\texthindi {कच्चे घड़े }}{92}{}%
+\contentsline {section}{\texthindi {बच्चों की मुस्कुराहट }}{93}{}%
+\contentsline {section}{\texthindi {नया जीवन }}{95}{}%
+\contentsline {section}{\texthindi {छे फ़ुट का फ़ासला }}{96}{}%
+\contentsline {section}{\texthindi {घर लुटवाना }}{98}{}%
+\contentsline {section}{\texthindi {औरत }}{99}{}%
+\contentsline {section}{\texthindi {काश हम मिले ना होते }}{101}{}%
+\contentsline {section}{\texthindi {काश हम बिछड़े न होते }}{102}{}%
+\contentsline {section}{\texthindi {जीवन पथ }}{104}{}%
+\contentsline {section}{\texthindi {दर्द ए दिल }}{105}{}%
+\contentsline {section}{\texthindi {गुस्सा }}{106}{}%
+\contentsline {section}{\texthindi {एक हाथ की ताली }}{108}{}%
+\contentsline {section}{\texthindi {मकड़ी जाल }}{109}{}%
+\contentsline {section}{\texthindi {राजनेता }}{111}{}%
+\contentsline {section}{\texthindi {पुनर्मिलन }}{112}{}%
+\contentsline {section}{\texthindi {नज़रिया }}{113}{}%
+\contentsline {section}{\texthindi {रामायण सारांश में किस्मत }}{115}{}%
+\contentsline {section}{\texthindi {महाभारत सारांश में }}{116}{}%
+\contentsline {section}{\texthindi {उम्मीदे वफ़ा }}{117}{}%
+\contentsline {section}{\texthindi {सुनामी }}{117}{}%
+\contentsline {section}{\texthindi {एक रब कई नाम }}{118}{}%
+\contentsline {section}{\texthindi {घड़ी }}{118}{}%
+\contentsline {chapter}{\chapternumberline {5}\texthindi {हास्य }}{122}{}%
+\contentsline {section}{\texthindi {बाँके लाल का ढाबा }}{122}{}%
+\contentsline {section}{\texthindi {पोकर }}{126}{}%
+\contentsline {section}{\texthindi {बीवी }}{127}{}%
+\contentsline {section}{\texthindi {पति }}{128}{}%
+\contentsline {section}{\texthindi {पति पत्नी की नोक झोंक }}{130}{}%
+\contentsline {section}{\texthindi {पैसे के दो रूप }}{133}{}%
+\contentsline {section}{\texthindi {शराबी }}{137}{}%
+\contentsline {section}{\texthindi {आधुनिक दिवाली }}{137}{}%
+\contentsline {section}{\texthindi {जॉनी का सर दर् }}{140}{}%
+\contentsline {section}{\texthindi {जीवन का चक्कर }}{142}{}%
+\contentsline {section}{\texthindi {कोविड के दिन }}{144}{}%
+\contentsline {section}{\texthindi {जाऊँ तो जाऊँ कहाँ }}{145}{}%
+\contentsline {section}{\texthindi {महँगे प्याज़ }}{146}{}%
+\contentsline {section}{\texthindi {फ़ोन }}{147}{}%
+\contentsline {section}{\texthindi {स्टॉक्स }}{148}{}%
+\contentsline {section}{\texthindi {अमरीका के कुछ रंग }}{149}{}%
+\contentsline {chapter}{\chapternumberline {6}\texthindi { बुढ़ापा बीमारी मौत }}{154}{}%
+\contentsline {section}{\texthindi {बड़ती उम्र }}{154}{}%
+\contentsline {section}{\texthindi {मेरी उम्र }}{155}{}%
+\contentsline {section}{\texthindi {खोई जवानी }}{157}{}%
+\contentsline {section}{\texthindi {दोस्तों की नई तस्वीरें }}{159}{}%
+\contentsline {section}{\texthindi {बुढ़ापे के रंग }}{160}{}%
+\contentsline {section}{\texthindi {आल्ज़ाइमर्ज़ }}{163}{}%
+\contentsline {section}{\texthindi {हैं से थे बन गये }}{165}{}%
+\contentsline {section}{\texthindi {जीवन का खेल }}{167}{}%
+\contentsline {section}{\texthindi {बहुत देर }}{168}{}%
+\contentsline {section}{\texthindi {मोम के पुतले }}{169}{}%
+\contentsline {section}{\texthindi {जन्म मरण }}{170}{}%
+\contentsline {section}{\texthindi {मौत }}{172}{}%
+\contentsline {section}{\texthindi {यादों के खंडरात }}{173}{}%
+\contentsline {section}{\texthindi {दुआ }}{176}{}%
+\contentsline {section}{\texthindi {जीवन और मौत }}{177}{}%
+\contentsline {section}{\texthindi {जीवन का अन्त }}{180}{}%
+\contentsline {section}{\texthindi {समय की धूल }}{181}{}%
